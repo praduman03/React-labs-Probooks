@@ -1,0 +1,10 @@
+.flex{
+  display: flex;
+}
+.flex p{
+margin-left: 1rem;
+}
+
+span{
+  margin-left: 1rem;
+}
